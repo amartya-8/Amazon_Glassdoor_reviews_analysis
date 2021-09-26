@@ -4,7 +4,7 @@ Analysis of Glassdoor Reviews
 Prediction of Glassdoor Rating & Sentiment Based on Review Text
 
 OBJECTIVE 
-The project was designed to scraPe employee reviews from Glassdoor and predict rating of reviews using Machine learning and NLP techniques. The goal was to predict star rating and sentiment rating and compare the performance of the models.
+The project was designed to scrape employee reviews from Glassdoor and predict rating of reviews using Machine learning and NLP techniques. The goal was to predict star rating and sentiment rating and compare the performance of the models.
 
 INTRODUCTION:
 Glassdoor reviews are quite important for a potential candidate to decide their fit towards a company's values and work culture. It's important to analyze the free-text and measure the importance of a review. This project involves a combination of topic modeling and sentiment analysis to summarize the content and thereby help predict the review stars.
